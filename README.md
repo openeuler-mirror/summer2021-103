@@ -23,7 +23,7 @@ compass-ci/ sparrow /install-rasp
 
 1.  从compass-CI仓库获取源码
 2.  将本文档中的代码添加的compass-CI源码的对应位置
-3.  执行compass-ci/ sparrow /install-rasp并安装并按照提示操作即可
+3.  执行compass-ci/ sparrow /install-rasp并按照提示操作即可
 
 #### 使用说明
 
@@ -35,7 +35,7 @@ compass-ci/ sparrow /install-rasp
 
 2. 目前，我并没有有完全成功部署compass-CI仅仅完成了添加部署所需依赖的工作。
 
-   在执行4-docker/buildall时遭遇了问题。
+   在执行4-docker/buildall时遭遇了问题，正在寻求解决。
 
 #### 参与贡献
 
